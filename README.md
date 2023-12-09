@@ -5,4 +5,4 @@
 
 - 🎈 I have 16y
 
--  💼 I’m work in @atlasresources [atlasresources.site]
+-  💼 I’m work in (@atlasresources) [https://atlasresources.site/]
